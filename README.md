@@ -1,2 +1,5 @@
 # hello-world
-this is a test
+
+Welcome to my world!
+
+It is different than others, as my perception of reality and truth is always correct.
